@@ -1,0 +1,23 @@
+body {
+              margin: 0;
+              padding: 0;
+              font-family: Arial, sans-serif;
+              background-color: #b5c5d6;
+          }
+          
+          .btn {
+              background-color:rgb(244, 96, 96);
+              color: #fff;
+              border: none;
+              padding: 10px 20px;
+              border-radius: 5px;
+              cursor: pointer;
+              padding: 20px;
+              margin: 20px;
+              font-size: large;
+          }
+
+          .btn:hover{
+              background-color: blueviolet;
+          }
+        
